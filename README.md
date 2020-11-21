@@ -36,3 +36,10 @@ Entregar ao usuário um sistema capaz de suprir a necessidade de irrigação de 
 #### 2.4 Delimitação/Restrições
 * O sistema não será capaz de cobrir plantações extensas.
 * Não garantimos que o nosso produto cuidará de todas as variáveis para um bom cultivo.
+
+### 3. Metas/Macro entregas
+
+### 4. Identificação das etapas
+
+### 5. Cronograma de execução
+
