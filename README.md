@@ -39,7 +39,18 @@ Entregar ao usuário um sistema capaz de suprir a necessidade de irrigação de 
 
 ### 3. Metas/Macro entregas
 
+<p align="center">
+  <img src="./img/item3.png" alt="alt text" width="568" height="260">
+</p>
+
 ### 4. Identificação das etapas
+
+<p align="center">
+  <img src="./img/item4.png" alt="alt text" width="566" height="299">
+</p
 
 ### 5. Cronograma de execução
 
+<p align="center">
+  <img src="./img/item5.png" alt="alt text" width="573" height="401">
+</p
