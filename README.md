@@ -27,12 +27,12 @@ comunicação através de uma rede *wifi* entre um módulo de coleta de dados co
 em um banco de dados que por sua vez serão processadas para realizar ou não a irrigação da plantação e, por fim,
 apresentar essas informações em uma página *web*.
 #### 2.2 Objetivo Geral
-Entregar ao usuário um sistema capaz de suprir a necessidade de irrigação de sua pequena horta.
+Desenvolvimento de um sistema capaz de suprir a necessidade de irrigação de sua pequena horta.
 #### 2.3 Objetivos específicos
-* Capaz de coletar os dados de forma correta.
-* Realizar uma comunicação confiável entre os módulos.
-* Irrigar a plantação no momento correto.
-* Apresentar os dados de uma maneira com fácil entendimento por parte do usuário.
+* Desenvolver os dispositivos para a coleta correta dos dados e acionamento físico da irrigação.
+* Realizar uma comunicação confiável entre os módulos (integração dos módulos).
+* Armazenamento e análise dos dados coletados.
+* Criar uma interface de visualização
 #### 2.4 Delimitação/Restrições
 * O sistema não será capaz de cobrir plantações extensas.
 * Não garantimos que o nosso produto cuidará de todas as variáveis para um bom cultivo.
