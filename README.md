@@ -36,6 +36,8 @@ Desenvolvimento de um sistema capaz de suprir a necessidade de irrigação de su
 #### 2.4 Delimitação/Restrições
 * O sistema não será capaz de cobrir plantações extensas.
 * Não garantimos que o nosso produto cuidará de todas as variáveis para um bom cultivo.
+* O usuário deverá ter uma rede local de *wifi* para o funcinamento do sistema.
+* Será necessário também uma fonte de alimentação de energia próxima aos módulos de captura e transmissão dos dados.
 
 ### 3. Metas/Macro entregas
 
