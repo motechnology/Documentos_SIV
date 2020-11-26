@@ -42,7 +42,7 @@ Desenvolvimento de um sistema capaz de suprir a necessidade de irrigação de su
 ### 3. Metas/Macro entregas
 
 <p align="center">
-  <img src="./img/item3.png" alt="alt text" width="568" height="260">
+  <img src="./img/item3.png" alt="alt text" width="552" height="353">
 </p>
 
 ### 4. Identificação das etapas
