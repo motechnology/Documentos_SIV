@@ -29,10 +29,10 @@ apresentar essas informações em uma página *web*.
 #### 2.2 Objetivo Geral
 Desenvolvimento de um sistema capaz de suprir a necessidade de irrigação de sua pequena horta.
 #### 2.3 Objetivos específicos
-* Desenvolver os dispositivos para a coleta correta dos dados e acionamento físico da irrigação.
+* Desenvolver os dispositivos para a coleta correta dos dados e do acionamento físico da irrigação.
 * Realizar uma comunicação confiável entre os módulos (integração dos módulos).
 * Armazenamento e análise dos dados coletados.
-* Criar uma interface de visualização
+* Criar uma interface de visualização.
 #### 2.4 Delimitação/Restrições
 * O sistema não será capaz de cobrir plantações extensas.
 * Não garantimos que o nosso produto cuidará de todas as variáveis para um bom cultivo.
