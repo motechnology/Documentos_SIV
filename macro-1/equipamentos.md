@@ -45,3 +45,15 @@
    ​Este sensor será responsável por capturar as variações de           temperatura e umidade do ambiente e será conectado ao módulo de transmissão ESP8266 para integração com o sistema.
 
 ​
+
+3. **Estrutura do sistema**
+
+<p align="center">
+      <img src="./img/estrutura.png" width="751" height="486">
+</p>
+
+
+4. **Códigos desenvolvidos para esta etapa**
+
+[Sensor de temperatura](https://github.com/motechnology/hardware/blob/main/sensor_temperatura_umidade_ambiente/sensor_temperatura_umidade_ambiente.ino)
+[Sensor de umidade do solo](https://github.com/motechnology/hardware/blob/main/sensor_umidade_solo/sensor_umidade_solo.ino)
