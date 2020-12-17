@@ -57,3 +57,7 @@
 
 * [Sensor de temperatura](https://github.com/motechnology/hardware/blob/main/sensor_temperatura_umidade_ambiente/sensor_temperatura_umidade_ambiente.ino)
 * [Sensor de umidade do solo](https://github.com/motechnology/hardware/blob/main/sensor_umidade_solo/sensor_umidade_solo.ino)
+
+5. **Resultados**
+
+Macro Entrega realizada com sucesso!
