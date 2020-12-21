@@ -49,7 +49,7 @@
 3. **Estrutura do sistema**
 
 <p align="center">
-      <img src="./img/estrutura.png" width="638" height="481">
+      <img src="/img/estrutura.png" width="638" height="481">
 </p>
 
 
