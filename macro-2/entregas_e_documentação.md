@@ -1,4 +1,4 @@
-## Relatório referente à Macro Entrega 1 - 17/12/2020
+## Relatório referente à Macro Entrega 2 - 25/02/2020
 > Responsável pela entrega: Osvaldo da Silva Neto
 
 
@@ -49,7 +49,7 @@
 3. **Estrutura do sistema**
 
 <p align="center">
-      <img src="./img/estrutura.png" width="751" height="486">
+      <img src="./img/estrutura.png" width="670" height="481">
 </p>
 
 
@@ -58,6 +58,6 @@
 * [Sensor de temperatura](https://github.com/motechnology/hardware/blob/main/sensor_temperatura_umidade_ambiente/sensor_temperatura_umidade_ambiente.ino)
 * [Sensor de umidade do solo](https://github.com/motechnology/hardware/blob/main/sensor_umidade_solo/sensor_umidade_solo.ino)
 
-5. **Resultados**
+5. **Resultados Da Macro Entrega 1**
 
   Macro Entrega 1 concluída (17/12/2020), porém percebemos que surgirá uma nova etapa para Entrega seguinte (Especificar o sistema de irrigação). Os testes  realizados foram todos em equipamentos eletrônicos. Troca da utilização do grafana por um aplicativo mobile.
