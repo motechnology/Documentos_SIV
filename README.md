@@ -71,7 +71,7 @@ Desenvolvimento de um sistema capaz de suprir a necessidade de irrigação de su
 | **M1** | Elaborar a estrutura do projeto e adquirir componentes       | Relatório especificando a compra do material. Data: 17/12/2020                 |
 | **M2** | Sistema de irrigação/o sistema de coleta de dados operacional | Vídeo e código demonstrando o funcionamento do módulos. Data: 25/02/2020       |
 | **M3** | Integração entre coleta de dados e API                       | Vídeo e código demonstrando o funcionamento do módulos . Data: 25/02/2021     |
-| **M4** | Análise dos dados armazenados                                | Relatório avaliando os dados coletados e implementação de  dashboards: 04/03/2021 |
+| **M4** | Análise dos dados armazenados                                | Relatório avaliando os dados coletados e implementação do aplicativo: 04/03/2021 |
 | **M5** | Protótipo da placa e de definição dos custos                 | Relatório técnico final e protótipo da placa utilizando software para projeto de placas (EasyEDA): Data: 01/04/2021 |
 
 
@@ -85,11 +85,11 @@ Desenvolvimento de um sistema capaz de suprir a necessidade de irrigação de su
 | **M1** | **E1**      | **Osvaldo**           | Realizar compra dos componentes                              |
 | **M1** | **E2**      | **Osvaldo**           | Testar e analisar a funcionalidade dos componentes           |
 | **M1** | **E3**      | **Osvaldo**           | Implementar testes com os módulos adquiridos                 |
-| **M2** | **E4**      | **Osvaldo**           | Registrar o funcionamento dos teste (vídeo)                  |
+| **M2** | **E4**      | **Osvaldo**           | Registrar o funcionamento dos testes  (vídeo)                |
 | **M3** | **E5**      | **Jeneffer**          | Desenvolver API para comunicação com os módulos de coleta e criar uma base de dados para salvar as informações coletadas. |
 | **M3** | **E6**      | **Jeneffer**          | Comunicação com a API (armazenamento/leitura dos dados)      |
-| **M4** | **E7**      | **Jeneffer**          | Correlação dos dados                                         |
-| **M4** | **E8**      | **Marcelo**           | Apresentação dos dados em interface web                      |
+| **M4** | **E7**      | **Jeneffer**          | Análise dos dados                                            |
+| **M4** | **E8**      | **Marcelo**           | Apresentação dos dados no aplicativo                         |
 | **M5** | **E9**      | **Marcelo**           | Entrega do projeto de protótipo da placa (usando softwarre de design de EasyEDA) |
 | **M5** | **E10**     | **Marcelo**           | Levantamento de custos para implementação do sistema         |
 | **M5** | **E11**     | **Toda equipe**       | Relatório técnico final                                      |
