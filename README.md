@@ -37,7 +37,7 @@ que fornece a opção de uma interface virtual de análise, sendo este o diferen
 O sistema funcionará basicamente da seguinte forma: Através de sensores presentes no solo da horta, ocorrerá a
 comunicação através de uma rede *wifi* entre um módulo de coleta de dados com um servidor, que amarzenará as informações 
 em um banco de dados que por sua vez serão processadas para realizar ou não a irrigação da plantação e, por fim,
-apresentar essas informações em uma página *web*.
+apresentar essas informações em um aplicativo mobile.
 
 #### 2.2 Objetivo Geral
 
