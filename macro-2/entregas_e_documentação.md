@@ -1,7 +1,5 @@
-## Relatório referente à Macro Entrega 2 - 25/02/2020
+## Relatório referente à Macro Entrega 1 - 17/12/2020
 > Responsável pela entrega: Osvaldo da Silva Neto
-
-
 
 1. **Lista dos equipamentos:**
 
@@ -61,3 +59,13 @@
 5. **Resultados Da Macro Entrega 1**
 
   Macro Entrega 1 concluída (17/12/2020), porém percebemos que surgirá uma nova etapa para Entrega seguinte (Especificar o sistema de irrigação). Os testes  realizados foram todos em equipamentos eletrônicos. Troca da utilização do grafana por um aplicativo mobile.
+  
+  
+## Relatório referente à Macro Entrega 2 - 25/02/2020
+> Responsável pela entrega: Osvaldo da Silva Neto
+
+1. **Alterações realizadas no projeto**
+2. **Descrição do sistema de irrigação**
+3. **Funcionamento dos módulos de coleta (sensores)**
+4. **Resultados da Macro Entrega 2**
+
