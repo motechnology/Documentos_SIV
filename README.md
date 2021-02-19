@@ -86,13 +86,13 @@ Desenvolvimento de um sistema capaz de suprir a necessidade de irrigação de su
 | **M1** | **E2**      | **Osvaldo**           | Testar e analisar a funcionalidade dos componentes           |
 | **M1** | **E3**      | **Osvaldo**           | Implementar testes com os módulos adquiridos                 |
 | **M2** | **E4**      | **Osvaldo**           | Registrar o funcionamento dos testes  (vídeo)                |
-| **M3** | **E5**      | **Jeneffer**          | Desenvolver API para comunicação com os módulos de coleta e criar uma base de dados para salvar as informações coletadas. |
-| **M3** | **E6**      | **Jeneffer**          | Comunicação com a API (armazenamento/leitura dos dados)      |
-| **M4** | **E7**      | **Jeneffer**          | Análise dos dados                                            |
+| **M3** | **E5**      | **Marcelo**          | Desenvolver API para comunicação com os módulos de coleta e criar uma base de dados para salvar as informações coletadas. |
+| **M3** | **E6**      | **Marcelo**          | Comunicação com a API (armazenamento/leitura dos dados)      |
+| **M4** | **E7**      | **Marcelo**          | Análise dos dados                                            |
 | **M4** | **E8**      | **Marcelo**           | Apresentação dos dados no aplicativo                         |
-| **M5** | **E9**      | **Marcelo**           | Entrega do projeto de protótipo da placa (usando softwarre de design de EasyEDA) |
-| **M5** | **E10**     | **Marcelo**           | Levantamento de custos para implementação do sistema         |
-| **M5** | **E11**     | **Toda equipe**       | Relatório técnico final                                      |
+| **M5** | **E9**      | **Jeneffer**           | Entrega do projeto de protótipo da placa (usando softwarre de design de EasyEDA) |
+| **M5** | **E10**     | **Jeneffer**           | Levantamento de custos para implementação do sistema         |
+| **M5** | **E11**     | **Toda equipe (liderada por Jeneffer)**       | Relatório técnico final                                      |
 
 
 
