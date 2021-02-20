@@ -65,7 +65,11 @@
 > Responsável pela entrega: Osvaldo da Silva Neto
 
 1. **Alterações realizadas no projeto**
+  Falar sobre: Mudanças no sensores
 2. **Descrição do sistema de irrigação**
+  Colocar algumas fotos do sistema de irrigação montado (bomba conectada na ESP e dentro de um reservatório ligada a um vaso)
 3. **Funcionamento dos módulos de coleta (sensores)**
+  Vídeo e breve descrição dos módulos coletando do vaso
+  Colocar umas fotinhas de um vaso com sensores
 4. **Resultados da Macro Entrega 2**
-
+  Aqui será discutido com o professor
