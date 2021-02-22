@@ -79,6 +79,11 @@ Vamos utilizar uma Bomba D'água submersiva, a qual ficará dentro de um reserva
 3. **Funcionamento dos módulos de coleta (sensores)**
   Vídeo e breve descrição dos módulos coletando do vaso
   Colocar umas fotinhas de um vaso com sensores
-  
-4. **Resultados da Macro Entrega 2**
+
+
+4. **Código desenvolvido para esta etapa**
+
+* [Sensor de temperatura e umidade (com acionamento da bomba)]()
+
+5. **Resultados da Macro Entrega 2**
  
