@@ -63,6 +63,7 @@
   
 ## Relatório referente à Macro Entrega 2 - 25/02/2020
 > Responsáveis pela entrega: Marcelo Bittencourt e Osvaldo da Silva Neto
+> 
 > Meta 2 e Meta 3
 
 1. **Alterações realizadas no projeto**
