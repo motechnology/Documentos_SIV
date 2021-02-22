@@ -62,7 +62,8 @@
   
   
 ## Relatório referente à Macro Entrega 2 - 25/02/2020
-> Responsável pela entrega: Osvaldo da Silva Neto
+> Responsáveis pela entrega: Marcelo Bittencourt e Osvaldo da Silva Neto
+> Meta 2 e Meta 3
 
 1. **Alterações realizadas no projeto**
 
@@ -81,9 +82,17 @@ Vamos utilizar uma Bomba D'água submersiva, a qual ficará dentro de um reserva
   Colocar umas fotinhas de um vaso com sensores
 
 
-4. **Código desenvolvido para esta etapa**
+4. **Código desenvolvido para a captura dos dados**
 
 * [Sensor de temperatura e umidade (com acionamento da bomba)]()
 
-5. **Resultados da Macro Entrega 2**
+5. **Funcionamento da REST API (utilizando software Postman)**
+
+* [Vídeo REST API]()
+
+7. **Código desenvolvido para a API e armazenamento de dados**
+
+* [REST API](https://github.com/motechnology/SIV-backend/blob/main/app.py)
+
+8. **Resultados da Macro Entrega 2**
  
