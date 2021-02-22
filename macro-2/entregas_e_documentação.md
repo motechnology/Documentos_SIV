@@ -70,7 +70,7 @@ Inicialmente o projeto visava utilizar dois tipos de sensores, um deles respons�
 
 2. **Descrição do sistema de irrigação**
  
-Vamos utilizar uma Bomba D'água submersiva, a qual ficará dentro de um reservatório (jarro ou outro recipiente) e transportará a água ao vaso através de uma simples tubulação. A bomba terá sua alimentação diretamente ligada ao *hardware* central do sistema, em uma saída de 3.3V. A Figura abaixo demonstra como ficará essa parte do sistema.
+Vamos utilizar uma Bomba D'água submersiva, a qual ficará dentro de um reservatório (jarro ou outro recipiente) e transportará a água ao vaso através de uma simples tubulação. A bomba terá sua alimentação diretamente ligada ao *hardware* central do sistema, em uma saída de 5V. A Figura abaixo demonstra como ficará essa parte do sistema.
  
 --<p align="center">
 --      <img src="./img/bomba.png" width="10" height="10">
