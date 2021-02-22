@@ -69,7 +69,7 @@ Desenvolvimento de um sistema capaz de suprir a necessidade de irrigação de su
 | Nº     | Meta(descrição)                                              | Indicadores (físico)                                         |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **M1** | Elaborar a estrutura do projeto e adquirir componentes       | Relatório especificando a compra do material. Data: 17/12/2020                 |
-| **M2** | Sistema de irrigação/o sistema de coleta de dados operacional | Vídeo e código demonstrando o funcionamento do módulos. Data: 25/02/2020       |
+| **M2** | Sistema de irrigação (protótipo)/o sistema de coleta de dados operacional | Vídeo e código demonstrando o funcionamento do módulos. Data: 25/02/2020       |
 | **M3** | Integração entre coleta de dados e API                       | Vídeo e código demonstrando o funcionamento do módulos . Data: 25/02/2021     |
 | **M4** | Análise dos dados armazenados                                | Relatório avaliando os dados coletados e implementação do aplicativo: 04/03/2021 |
 | **M5** | Protótipo da placa e de definição dos custos                 | Relatório técnico final e protótipo da placa utilizando software para projeto de placas (EasyEDA): Data: 01/04/2021 |
