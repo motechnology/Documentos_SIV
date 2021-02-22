@@ -65,11 +65,20 @@
 > Responsável pela entrega: Osvaldo da Silva Neto
 
 1. **Alterações realizadas no projeto**
-  Falar sobre: Mudanças no sensores
+
+Inicialmente o projeto visava utilizar dois tipos de sensores, um deles responsável pela captura da temperatura (DHT11) do ar e outro pela umidade do solo. Dessa forma, foi percebido que o sensor referente à umidade do solo realiza a captura dos dados de forma analógica, ou seja, precisamos conectar sua entra em uma porta analógica. Porém o nosso *hardware* central (ESP32) possui somente uma entrada analógica, com isso a equipe optou por capturar a umidade do ar, a qual poderá ser realizada com a uitlização do mesmo sensor que captura a temperatura fazendo com que o custo do projeto reduza e ao mesmo tempo não afeta o objetivo de funcionalidade do sistema.
+
 2. **Descrição do sistema de irrigação**
-  Colocar algumas fotos do sistema de irrigação montado (bomba conectada na ESP e dentro de um reservatório ligada a um vaso)
+ 
+Vamos utilizar uma Bomba D'água submersiva, a qual ficará dentro de um reservatório (jarro ou outro recipiente) e transportará a água ao vaso através de uma simples tubulação. A bomba terá sua alimentação diretamente ligada ao *hardware* central do sistema, em uma saída de 3.3V. A Figura abaixo demonstra como ficará essa parte do sistema.
+ 
+--<p align="center">
+--      <img src="./img/bomba.png" width="10" height="10">
+--</p>
+  
 3. **Funcionamento dos módulos de coleta (sensores)**
   Vídeo e breve descrição dos módulos coletando do vaso
   Colocar umas fotinhas de um vaso com sensores
+  
 4. **Resultados da Macro Entrega 2**
-  Aqui será discutido com o professor
+ 
