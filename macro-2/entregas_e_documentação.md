@@ -85,7 +85,7 @@ Vamos utilizar uma Bomba D'água submersiva, a qual ficará dentro de um reserva
 
 4. **Código desenvolvido para a captura dos dados**
 
-* [Sensor de temperatura e umidade (com acionamento da bomba)]()
+* [Sensor de temperatura e umidade (com acionamento da bomba)](https://github.com/motechnology/SIV-hardware/blob/main/LeituraUmidadeTemperatura/LeituraUmidadeTemperatura.ino)
 
 5. **Funcionamento da REST API (utilizando software Postman)**
 
