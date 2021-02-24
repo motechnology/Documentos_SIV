@@ -79,9 +79,8 @@ Vamos utilizar uma Bomba D'água submersiva, a qual ficará dentro de um reserva
 --</p>
   
 3. **Funcionamento dos módulos de coleta (sensores)**
-  Vídeo e breve descrição dos módulos coletando do vaso
-  Colocar umas fotinhas de um vaso com sensores
 
+* [Vídeo Sistema de Irrigação](https://drive.google.com/file/d/1piNGlvtikLQNpZhYwwzxVAH2oyOLupsL/view?usp=sharing)
 
 4. **Código desenvolvido para a captura dos dados**
 
