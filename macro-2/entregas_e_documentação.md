@@ -74,9 +74,13 @@ Inicialmente o projeto visava utilizar dois tipos de sensores, um deles respons�
  
 Vamos utilizar uma Bomba D'água submersiva, a qual ficará dentro de um reservatório (jarro ou outro recipiente) e transportará a água ao vaso através de uma simples tubulação. A bomba terá sua alimentação diretamente ligada ao *hardware* central do sistema, em uma saída de 5V. A Figura abaixo demonstra como ficará essa parte do sistema.
  
---<p align="center">
---      <img src="./img/bomba.png" width="10" height="10">
---</p>
+<p align="center">
+      <img src="./img/sys_bomba_1280_720.jpeg" width="640" height="360">
+</p>
+
+<p align="center">
+      <img src="./img/sys_sensores_1040_780.jpeg" width="520" height="390">
+</p>
   
 3. **Funcionamento dos módulos de coleta (sensores)**
 
