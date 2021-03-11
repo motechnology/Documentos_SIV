@@ -102,7 +102,7 @@ Vamos utilizar uma Bomba D'água submersiva, a qual ficará dentro de um reserva
  
 Entrega realizada com sucesso, sem nenhum ponto crítico. O professor sugeriu para utilizar pelo menos um dos sensores de umidade do solo, devido à limitação da ESP8266.
 
-## Relatório referente à Macro Entrega 3 - 04/03/2021
+## Relatório referente à Macro Entrega 3 - 25/03/2021
 > Responsável pela entrega: Marcelo Bittencourt
 > 
 > Meta 4
