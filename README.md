@@ -91,7 +91,7 @@ Desenvolvimento de um sistema capaz de suprir a necessidade de irrigação de su
 | **M4** | **E7**      | **Marcelo**          | Análise dos dados                                            |
 | **M4** | **E8**      | **Marcelo**           | Apresentação dos dados no aplicativo                         |
 | **M5** | **E9**      | **Jeneffer**           | Entrega do projeto de protótipo da placa (usando softwarre de design de EasyEDA) |
-| **M5** | **E10**     | **Jeneffer**           | Levantamento de custos para implementação do sistema         |
+| **M5** | **E10**     | **Jeneffer**           | Levantamento de custos para implementação do sistema  e    estudo de mercado    |
 | **M5** | **E11**     | **Toda equipe (liderada por Jeneffer)**       | Relatório técnico final                                      |
 
 
