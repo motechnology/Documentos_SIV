@@ -112,5 +112,5 @@ Entrega realizada com sucesso, sem nenhum ponto crítico. O professor sugeriu pa
 * [App Mobile](https://github.com/motechnology/SIV-aplicativo)
 * [Vídeo de apresentação](https://drive.google.com/file/d/1ujcM0sho8Tg6RrGgSQfa-QkuEcD5nVS_/view?usp=sharing)
 
-2. **Resultados da Macro Entrega 3**
+2. **Resultados da Macro Entrega 3** </br>
 Entrega realizada com sucesso, sem nenhum ponto crítico. Alguns pontos para futuras implementações: Faixa de temperatura, tempo de amostra escolhido pelo usuário, média dos valores captados.
