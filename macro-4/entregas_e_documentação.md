@@ -163,7 +163,7 @@ Para fazer a implementação do protótipo de placa, os custo são os descritos 
 | Fonte DC Chaveada 9V 1A Plug P4     | 1          | 17,90              | 17,90     |
 | Total:                              |            |                    | 183,70    |
 
-3. **Estudo de mercado  **
+3. **Estudo de mercado**
 
 Considerando a situação de "novo normal" por conta da pandemia de coronavírus muitas pessoas passaram a ficar mais horas em casa e cultivar novos *hobbys*. Dentre esse *hobbys * percebeu-se um [tendência](https://g1.globo.com/jornal-nacional/noticia/2021/01/29/pandemia-faz-a-venda-de-plantas-e-flores-aumentar-em-todo-pais.ghtml) pelo cultivo de plantas e flores.  Sendo assim, decidiu-se por implementar um sistema que permitisse ao usuário ter uma cuidado com suas plantas de forma prática e eficiente.
 
