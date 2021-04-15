@@ -127,7 +127,7 @@ Entrega realizada com sucesso, sem nenhum ponto crítico. Alguns pontos para fut
 
   Utilizando o software de *design* de placas EasyEDA  foi desenvolvida uma placa protótipo contendo o microcontrolador (ESP8266), os sensores de temperatura e demais módulos (regulador de tensão e relés). A figura abaixo exibe o diagrama esquemático da placa. 
 
-![](./img/Schematic_Placa PJI3_2021-04-14 (1).png)
+![](./img/Schematic_Placa PJI3_2021-04-14(1).png)
 
 Esse digrama é convertido para uma PCB (placa de circutio impresso) como a figura a seguir exibe. Nesta figura podemos observar como ficariam dispostos os modulos, microcontrolore e os sensores na placa, caso ela fosse impressa.
 
@@ -139,11 +139,11 @@ Após impressão da placa, esta será colocada dentro de uma case para que os co
 
 
 
-![](/home/jeneffer/Área de Trabalho/SIV-documentos/macro-4/img/lateralCase.png)
+![](./img/lateralCase.png)
 
 Na parte frontal da case é possível visualizar a saída dos fios dos sensores. 
 
-![](/home/jeneffer/Área de Trabalho/SIV-documentos/macro-4/img/frenteCase.png)
+![](./img/frenteCase.png)
 
 
 
